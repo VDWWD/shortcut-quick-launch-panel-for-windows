@@ -7,6 +7,7 @@ More info: https://www.vanderwaal.eu/code-snippets/shortcut-quick-launch-panel-f
 <img src="https://www.vanderwaal.eu/images/site/codesnippets/images/shortcut-quick-launch-panel-for-windows.png">
 
 
+
 *Key features*
 
     Add a shortcuts to programs, files, websites or email addresses.
