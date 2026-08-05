@@ -8,7 +8,7 @@ More info: https://www.vanderwaal.eu/code-snippets/shortcut-quick-launch-panel-f
 
 
 
-*Key features*
+### Key features
 
     Add a shortcuts to programs, files, websites or email addresses.
     Set your own icon for the shortcut, including the color of the button and icon.
